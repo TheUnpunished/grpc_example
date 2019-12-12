@@ -9,5 +9,5 @@ mvn exec:java
 Run server with
 ````
 mvn package
-java -jar targer\grpc-hello-server.jar
+java -jar target\grpc-hello-server.jar
 ````
